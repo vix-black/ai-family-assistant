@@ -1,5 +1,7 @@
 # AI Family Assistant
 
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
+
 **A Claude Project that takes the mental load out of running a family.**
 
 It reads your calendar and inbox, files nursery and school letters into the calendar, flags clashes before they bite, keeps an eye on how full your week is, and sends your partner a weekly heads-up on who's doing what.
@@ -117,6 +119,10 @@ Say so in the chat ("that's on the wrong day"). It'll fix it, and you can ask it
 ## Contributing
 
 Ideas, fixes and lessons from your own family's setup are welcome. Open an issue or a pull request. Please never include real household data.
+
+## Licence
+
+[MIT](LICENSE). Use it, adapt it, share it; just keep the copyright notice.
 
 ## Support
 
