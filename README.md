@@ -52,7 +52,7 @@ flowchart LR
 
 That's it. Setup asks one question at a time, checks your connections, and tells you exactly what to click if something's missing. Stop whenever you like: ask for "the file so far" and say **`continue setup`** later.
 
-> **Coming from ChatGPT?** Run [`prompts/chatgpt-migration.md`](prompts/chatgpt-migration.md) in ChatGPT first, then paste the result in when setup starts.
+> **Coming from ChatGPT?** Before step 1, use Claude's built-in memory import: **Settings → Your Claude → Start import** (older layout: Settings → Memory). Read ChatGPT's answer and remove anything sensitive before you paste it in. Then copy your ChatGPT custom instructions into **Settings → Your Claude → Instructions**. See [`prompts/chatgpt-migration.md`](prompts/chatgpt-migration.md) for an optional, more detailed export.
 
 ## Which mail and calendar?
 
@@ -99,7 +99,7 @@ This connects to your calendar and email, so it's built to be careful.
 | --- | --- |
 | [`project-instructions.md`](project-instructions.md) | Paste into your Claude Project |
 | [`templates/household-template.md`](templates/household-template.md) | What your household file contains (setup fills it in for you) |
-| [`prompts/chatgpt-migration.md`](prompts/chatgpt-migration.md) | Bring your context over from ChatGPT |
+| [`prompts/chatgpt-migration.md`](prompts/chatgpt-migration.md) | Optional detailed export from ChatGPT (the built-in import is enough for most people) |
 | [`docs/full-guide.pdf`](docs/full-guide.pdf) | Full reference: options, scheduled tasks, privacy checklist |
 
 ## FAQ

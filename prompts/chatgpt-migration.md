@@ -1,8 +1,10 @@
 # Moving from ChatGPT
 
-Paste the prompt below into ChatGPT. Read what comes back and delete anything you don't want to carry over. Then, after typing **start setup** in your Claude Project, paste the list and say: "Here's background from my old assistant."
+**Start with Claude's built-in memory import.** In Claude, go to **Settings → Your Claude → Start import** (older layout: Settings → Memory), copy the prompt it gives you into ChatGPT, read the answer, remove anything sensitive, and paste it back. That's enough for most people.
 
-Also copy your ChatGPT custom instructions (Settings → Personalisation) into Claude's personal preferences in Settings.
+Then copy your ChatGPT custom instructions (ChatGPT → Settings → Personalisation) into **Settings → Your Claude → Instructions**.
+
+**Optional, more detailed export.** If you also want a structured list of your work and home context (custom GPTs included), paste the prompt below into ChatGPT. Read what comes back and delete anything you don't want to carry over. You can paste it into a chat in your Claude Project for reference.
 
 If you use Claude for work too, put work in its own Project so client detail never reaches the family calendar or your partner's weekly email. Check your employer's or clients' rules on using AI with their information first.
 

@@ -11,11 +11,12 @@
 - How I work best (optional): [e.g. ADHD — one thing at a time]
 - Work: [employed / self-employed — what I do]
 - Working days and hours: [e.g. Mon–Thu 09:30–14:30, protected]
-- Office days / home days: [employed only]
-- Where I work: [home, studio, client sites]
+- Where I work: [office, home, studio, client sites]
 - Work calendar: [separate calendar name, if any]
 - Invoicing: [e.g. last Friday of the month] (self-employed only)
 - Tax admin: [Self Assessment / MTD quarterly updates / VAT / accountant deadlines] (self-employed only)
+- Office days: [e.g. Tue, Wed]  · Home days: [Mon, Thu, Fri]
+- Usual hours and commute: [e.g. 08:00–16:00, 40 min by train]
 - Regular commitments: [e.g. gym Mon/Thu 06:30]
 
 ## Time for me
